@@ -35,3 +35,5 @@ Improved understanding of ride failures and actionable business solutions.
 - `zoomride_case_study` → Data file
 - `case_study.pdf` → Full report
 
+## 📊 Sample Insights
+![Ride Analysis](ride_status_distribution.png)
