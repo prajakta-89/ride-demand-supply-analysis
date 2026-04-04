@@ -1,8 +1,6 @@
 # ride-demand-supply-analysis
 Demand-Supply mismatch case study using Python &amp; EDA.
 
-# Ride Demand-Supply Mismatch Analysis
-
 ## Project Overview
 This project analyzes ride booking data to identify demand-supply gaps and reasons for ride failures.
 
