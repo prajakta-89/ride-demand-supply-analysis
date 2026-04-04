@@ -36,4 +36,4 @@ Improved understanding of ride failures and actionable business solutions.
 - `case_study.pdf` → Full report
 
 ## 📊 Sample Insights
-![Ride Analysis](ride_status_distribution.png)
+![Ride Analysis] ("C:\Users\Prajakta\OneDrive\Pictures\Screenshots\ride_status_distribution.png")
