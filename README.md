@@ -22,6 +22,8 @@ To understand why rides are not getting completed and provide data-driven soluti
 - Increased cancellations during specific time slots
 - Supply-demand imbalance affects revenue
 
+ ![ride_stutus](surge vs ride status.png)
+
 ## 💡 Recommendations
 - Increase drivers during peak hours
 - Use dynamic pricing
