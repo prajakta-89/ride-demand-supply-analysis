@@ -4,7 +4,7 @@ Demand-Supply mismatch case study using Python &amp; EDA.
 ## Project Overview
 This project analyzes ride booking data to identify demand-supply gaps and reasons for ride failures.
 
-## 🎯 Objective
+## Objective
 To understand why rides are not getting completed and provide data-driven solutions.
 
 ## Tools & Technologies
@@ -12,7 +12,7 @@ To understand why rides are not getting completed and provide data-driven soluti
 - Python (EDA - Pandas, Matplotlib)
 - Data Cleaning
 
-## 🧹 Data Cleaning
+## Data Cleaning
 - Handled missing/null values
 - Assigned zero fare to canceled/incomplete rides to maintain consistency
 - Cleaned and structured dataset
@@ -26,7 +26,7 @@ To understand why rides are not getting completed and provide data-driven soluti
    <img src="surge_vs_ride_status.png" width="500"/>
  </p>
 
-## 💡 Recommendations
+## Recommendations
 - Increase drivers during peak hours
 - Use dynamic pricing
 - Improve ride allocation system
